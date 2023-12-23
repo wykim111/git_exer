@@ -7,7 +7,7 @@ int main()
 {
 	cout << "hello world" << '\n';
 	cout << "World is Mine" << '\n';
-	cout << "Luna is Mine" << '\n';
+	cout << "Earth is Mine" << '\n';
 
 	return 0;
 }
