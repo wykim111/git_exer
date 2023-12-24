@@ -10,6 +10,8 @@ int main()
 	cout << "Earth is Mine" << '\n';
 	cout << "wy is Mine" << '\n';
 	cout << "Luna is Mine" << '\n';
+	
+	cout << "tell your world" << '\n';
 
 	return 0;
 }
