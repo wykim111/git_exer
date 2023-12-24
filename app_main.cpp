@@ -18,12 +18,13 @@ int main()
 	
 	if(flag == false)
 	{
-
-
+		//to do
+		flag = true;
 	}
 	else
 	{
-
+		//to do
+		flag = false;
 
 	}
 
